@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATWINC1500-MR210UB")(type "KiCad")(uri "${KIPRJMOD}/project_components/ATWINC1500-MR210UB.kicad_sym")(options "")(descr ""))
+  (lib (name "CN3058")(type "KiCad")(uri "${KIPRJMOD}/project_components/CN3058.kicad_sym")(options "")(descr ""))
+)
